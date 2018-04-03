@@ -23,9 +23,6 @@
 
 >  如果觉得不错的话，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
-### 移动端扫描下方二维码
-![](https://github.com/bailicangdu/pxq/blob/master/screenshot/demo.png)
-
 ### 个人相关文章
 
 [浅谈从React到Redux](https://www.jianshu.com/p/ab438a274743)
